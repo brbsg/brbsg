@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"> 
-  <a href="https://wakatime.com/@651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2">
-    <img src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" title="Total time coded since Oct 6 2021" />
+  <a href="https://wakatime.com/@4851b479-1b53-4f76-b2dc-992c2d154aec">
+    <img src="https://wakatime.com/badge/user/4851b479-1b53-4f76-b2dc-992c2d154aec.svg" alt="Total time coded since Oct 10 2021" />
   </a>
   <a href="https://github.com/brbsg?tab=repositories">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=brbsg&color=blue" title="Profile Views" />
