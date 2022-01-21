@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/brbsg/brbsg/output/github-user-contribution.svg" />
+  <img align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/brbsg/brbsg/d41e1863a034eb9a8ee26405382cbc3b7c4d3418/github-user-contribution.svg" />
 </div>
 
 <div align="center"> 
