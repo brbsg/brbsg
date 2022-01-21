@@ -26,6 +26,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div align="center">
+  <img align="center" alt="snake-game-eating-daily-commits.svg" src="https://raw.githubusercontent.com/brbsg/brbsg/output/github-user-contribution.svg" />
+</div>
+
 <div align="center"> 
   <a href="https://wakatime.com/@4851b479-1b53-4f76-b2dc-992c2d154aec">
     <img src="https://wakatime.com/badge/user/4851b479-1b53-4f76-b2dc-992c2d154aec.svg" alt="Total time coded since Oct 10 2021" />
