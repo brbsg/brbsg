@@ -25,3 +25,12 @@ Here are some ideas to get you started:
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=brbsg&langs_count=5&theme=discord_old_blurple" align="center" />
   </a>
 </div>
+
+<div align="center"> 
+  <a href="https://wakatime.com/@651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2">
+    <img src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" title="Total time coded since Oct 6 2021" />
+  </a>
+  <a href="https://github.com/brbsg?tab=repositories">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=brbsg&color=blue" title="Profile Views" />
+  </a>
+</div>
