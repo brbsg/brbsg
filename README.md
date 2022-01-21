@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
 <div align="center">
   <a href="https://github.com/brbsg?tab=repositories" style="text-decoration: none;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbsg&langs_count=10&theme=discord_old_blurple" align="center" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbsg&langs_count=5&theme=discord_old_blurple" align="center" />
   </a>
   <a href="https://github.com/brbsg?tab=repositories" style="text-decoration: none;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=brbsg&langs_count=5&theme=discord_old_blurple" align="center" />
