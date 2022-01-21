@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I'm a Software Developer who builds web apps with React and mobile-apps with ReactNative. Also, I create some automation project based on ESP-32 platform.
+ I'm a Software Developer who builds web apps with React and mobile-apps with ReactNative. Also, I create some automation projects based on ESP-32 platform.
 
 ## 💬 You can find me on
 
