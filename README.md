@@ -15,6 +15,58 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🧠 Languages and Tools
+
+<div align="left" style="margin: auto">
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"       title="Visual Studio Code" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" title="JavaScript" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js" width="50px" />
+  </a>
+ 
+<!--   
+
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" title="C" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" title="Java" width="50px" />
+  </a>
+
+-->
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" title="Git" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" title="GitHub" width="50px" />
+  </a>
+ 
+  <a href="https://github.com/brbsg">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" width="50px" />
+  </a>  
+</div>
+
 ## 💬 You can find me on
 
 
