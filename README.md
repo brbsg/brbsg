@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-barbosa-01a21222b/">
+  <a href="https://www.linkedin.com/in/brbsg">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" />
   </a>
   
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
   </a>
 
-  <a href="https://www.instagram.com/brbsg_/">
+<!--   <a href="https://www.instagram.com/brbsg_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
-  </a>
+  </a> -->
   
 </div>
 
