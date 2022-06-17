@@ -29,9 +29,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
   </a>
 
-  <a href="https://www.instagram.com/brbsg_/">
+<!--   <a href="https://www.instagram.com/brbsg_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="instagram" />
-  </a>
+  </a> -->
   
 </div>
 
@@ -91,9 +91,7 @@ Here are some ideas to get you started:
 ## 💻 Stats
  
 <div align="center">
-  <a href="https://github.com/brbsg?tab=repositories" style="text-decoration: none;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbsg&langs_count=4&theme=discord_old_blurple" align="center" />
-  </a>
+ <div width="100%" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brbsg&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="brbsg_contribution_streak" /></div>
   <a href="https://github.com/brbsg?tab=repositories" style="text-decoration: none;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=brbsg&langs_count=5&theme=discord_old_blurple" align="center" />
   </a>
