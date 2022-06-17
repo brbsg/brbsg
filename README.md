@@ -98,9 +98,9 @@ Here are some ideas to get you started:
       <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=brbsg&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
     </a>
   
-    <a href="https://github.com/brbsg?tab=repositories" target="_blank">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbsg&langs_count=8&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-    </a>
+  <a href="https://github.com/brbsg?tab=repositories" target="_blank">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbsg&langs_count=8&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  </a>
  </div>
 </div>
 
